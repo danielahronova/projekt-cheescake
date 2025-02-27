@@ -11,3 +11,64 @@ Písmo:
 Baloo Bhaijaan 2
 https://fonts.google.com/specimen/Baloo+Bhaijaan+2?lang=cs_Latn
 */
+
+
+.karticka {
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    width: 350px;
+    margin:0 auto;
+    background-color: white;
+    border-radius: 12px;
+    padding: 6px;
+    box-shadow: 1px 3px 12px rgba(0, 0, 0, 0.15);
+    }
+
+.cheescake {
+    border-radius: 6px 6px 0 0;
+    width: 100%;
+    display: block;
+    
+}
+
+body {background-color: #545e75;}
+
+h1,
+h2,
+p {margin: 0;
+}
+
+h1 {background-color: #8ac926;
+color: white;
+font-size: 24px;
+line-height: 1;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-left: 20px;}
+
+.ingredience {color: #8ac926;
+font-size: 18px;
+margin-top: 20px;
+margin-bottom: 8px;
+}
+
+/* .odstavec1 {margin-top: 20px;} */
+.text {padding: 20px;}
+
+a {display: inline-block;
+background-color: #8ac926;
+color: white;
+font-weight: bold;
+width: 50%;
+text-align: center;
+text-decoration: none;
+border-radius:0 0 0 6px;
+padding: 12px 0;}
+
+.right  {border-radius:0 0 6px 0;
+border-left: 1px white solid;}
+
+a:hover{background-color: #7cb422;}
+
+
+
