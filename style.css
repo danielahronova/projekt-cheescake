@@ -1,0 +1,13 @@
+html { box-sizing: border-box; }
+*, ::before, ::after { box-sizing: inherit; }
+
+/*
+Barvy:
+#545e75 - pozadí stránky
+#8ac926 - zelená pro titulek, podnadpis a tlačítka
+#7cb422 - tmavší zelená pro tlačítka při najetí myší
+
+Písmo:
+Baloo Bhaijaan 2
+https://fonts.google.com/specimen/Baloo+Bhaijaan+2?lang=cs_Latn
+*/
